@@ -6,3 +6,5 @@ node_modules
 .cdk.staging
 cdk.out
 config.ts
+
+build/
